@@ -1,0 +1,13 @@
+swagger:
+  base-package: com.itmayiedu.controller
+  url: 'http://${server.address}:${server.port}/api/v1'
+  version: v1
+  title: SpringBoot 2.x 测试项目-服务接口
+  description: 'SpringBoot 2.x 测试项目-服务接口'
+  termsOfService: ''
+  contact:
+    name:
+    email:
+server:
+  address: localhost
+  port: 8089
